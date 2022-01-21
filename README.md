@@ -1,4 +1,4 @@
-## Bonjour! 👋
+## 👋 Bonjour! 
 Je suis Samuel Lamy!
 <br /> 
 Je suis présentement en 2e année du baccalauréat en informatique à l'Université de Montréal
