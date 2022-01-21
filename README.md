@@ -12,6 +12,7 @@ Je suis présentement en 2e année du baccalauréat en informatique à l'Univers
 - (Cégep) Programmation de jeux vidéos
 ## 👀 Je suis interessé par
 - Le développement de jeux vidéos 
+- Le développement de logiciels
 - Le développement web
 - L'intelligence artificielle
 ## 📫 Comment me contacter 
