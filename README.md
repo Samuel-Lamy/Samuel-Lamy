@@ -13,7 +13,7 @@ https://samuel-lamy.github.io/Portfolio/
 - IFT3225 Technologies de l'internet
 - IFT2245 Systèmes d'exploitation (Présentement)
 - IFT2935 Bases de données (Présentement)
-- (Cégep) Programmation de jeux vidéos
+- (Cégep) Programmation de jeux vidéo
 ## 👀 Je suis interessé par
 - Le développement de jeux vidéos 
 - Le développement de logiciels
