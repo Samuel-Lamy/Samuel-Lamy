@@ -1,23 +1,11 @@
-## 👋 Bonjour! 
-Je suis Samuel Lamy!
+## 👋 Hi! 
+My name is Samuel Lamy,
 <br /> 
-Je suis présentement en 3e année du baccalauréat en informatique à l'Université de Montréal
+I recently graduated in computer science at Université de Montréal and I am now working at Ubisoft as a generalist programmer.
 <br /> 
-J'ai fait un site web portfolio qui comporte des images de certains de mes projet qui sont trop gros pour être mis sur Github vous pouvez voir ce site web à l'adresse suivante:
+I've created a portfolio website to show some of my personnal projects:
 <br /> 
 https://samuel-lamy.github.io/Portfolio/
-## 📚 Cours notables
-- IFT2015 Structures de données
-- IFT2125 Introduction à l'algorithmique
-- IFT2255 Génie logiciel
-- IFT3225 Technologies de l'internet
-- IFT2245 Systèmes d'exploitation (Présentement)
-- IFT2935 Bases de données (Présentement)
-- (Cégep) Programmation de jeux vidéo
-## 👀 Je suis interessé par
-- Le développement de jeux vidéos 
-- Le développement de logiciels
-- Le développement web
-- L'intelligence artificielle
-## 📫 Comment me contacter 
-- samuellamy1@gmail.com
+
+## 📫 You can contact me through LinkedIn
+- https://www.linkedin.com/in/samuel-lamy/
